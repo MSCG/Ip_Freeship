@@ -1,0 +1,9 @@
+{
+  "name": "ip/freeship",
+  "description": "Free shipping only in admin backend of Magento 1",
+  "type": "magento-module",
+  "license":"WTFPL",
+  "require": {
+    "magento-hackathon/magento-composer-installer": "*"
+  }
+}
